@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What sport does Richa like the most?",
+    "options": ["Cricket", "Badminton", "Football", "Tennis"],
+    "answer": 1
+  },
+  {
+    "question": "What food does Richa like the most?",
+    "options": ["Pasta", "Paneer Tikka", "Pizza", "Dosa"],
+    "answer": 1
+  },
+  {
+    "question": "Who inspires Richa the most?",
+    "options": ["APJ Abdul Kalam", "Indra Nooyi", "Sundar Pichai", "My Mom"],
+    "answer": 3
+  },
+  {
+    "question": "Did you love this quiz?",
+    "options": ["Yes!", "Of course!", "Totally!", "Absolutely!"],
+    "answer": 0
+  }
+]
